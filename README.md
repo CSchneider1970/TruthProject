@@ -9,11 +9,13 @@ MD-Exercise on Friday
 
 - JAVA-Code-Example
 
+```
     class HelloWorld {
         public static void main(String[] args) {
             System.out.println("Hello, World!"); 
         }
     }
+```
 ---
 
 ## "Hello, World!" in Python
