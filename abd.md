@@ -1,6 +1,8 @@
 # Why Python is Better Than Java?
 Let’s settle this debate once and for all—Python vs. Java. Here’s why Python is the cool kid on the block:
 
+![pytone vs java](https://media.licdn.com/dms/image/v2/C4D22AQFV47Wv6B3kUw/feedshare-shrink_800/feedshare-shrink_800/0/1675255318811?e=2147483647&v=beta&t=Uclrn9pPw6E2iOBNRgt-4vTrQrHzzR428cfBbCUQPps)
+
 ---
 
 ## 1. **Python is Like a Chill Friend**
