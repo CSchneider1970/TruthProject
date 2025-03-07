@@ -38,12 +38,12 @@ public class FileReader {
 ### 1.2.1 a Comparison explained with 2 Pictures
 
 ## Picture 01
-![Python vs Java Development Speed](https://files.oaiusercontent.com/file-AaH9XNZFYWk4TTqQ8TmYKU?se=2025-03-07T09%3A13%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df57477ae-fcc1-4033-b4ab-e65d34b03fe2.webp&sig=%2BKXmBM%2B9yxtSEvZIx7HRlMVeaip%2BR/sSKFaL9GiIZ9g%3D)
+![Image 1](https://ibb.co/xKyp1L1)
+
 While Java developers are still setting up their project structure, Python devs have already finished their app and gone for coffee.
 
 ## Picture 02
-![Python Community](https://files.oaiusercontent.com/file-KTKHB3RCVYiru1pLG4BGzm?se=2025-03-07T09%3A17%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De77ebc28-97e1-479c-bb77-a3a350c5d357.webp&sig=9xlm%2Bdp99eHJYbOpUQSQDJbWBkQLgXGmJqjbfexlOe8%3D "Python has a vibrant community")
-
+![Image 2](https://ibb.co/B2sFtgKR)
 
 ### 2. Flexibility: One Snake, Many Tricks 🎭
 
