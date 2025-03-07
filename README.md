@@ -1,7 +1,4 @@
-# TruthProject
-MD-Exercise on Friday
-
-## Christophs README.md
+# Christophs README.md
 
 ## "Hello, World!" in JAVA
 
@@ -24,5 +21,7 @@ MD-Exercise on Friday
 
 - PYTHON-Code-Example
 
+```
     print('Hello, world!')
-
+```
+---
