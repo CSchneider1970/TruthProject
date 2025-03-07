@@ -18,6 +18,7 @@ MD-Exercise on Friday
 #"Hello, World!" in Python
 
 ![PYTHON-Bild](python.png "PYTHON-Bild")
+
 - PYTHON-Code-Example
 
     print('Hello, world!')
