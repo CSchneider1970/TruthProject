@@ -1,9 +1,9 @@
 # TruthProject
 MD-Exercise on Friday
 
-#Christophs README.md
+# Christophs README.md
 
-#"Hello, World!" in JAVA
+# "Hello, World!" in JAVA
 
 ![JAVA-Bild](java.jpeg "JAVA-Bild")
 
@@ -15,7 +15,7 @@ MD-Exercise on Friday
         }
     }
 
-#"Hello, World!" in Python
+# "Hello, World!" in Python
 
 ![PYTHON-Bild](python.png "PYTHON-Bild")
 
