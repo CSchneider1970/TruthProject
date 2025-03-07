@@ -5,7 +5,7 @@ MD-Exercise on Friday
 
 #"Hello, World!" in JAVA
 
-![JAVA-Bild](java.jpeg) "JAVA-Bild")
+![JAVA-Bild](java.jpeg "JAVA-Bild")
 
 - JAVA-Code-Example
 
@@ -16,7 +16,7 @@ MD-Exercise on Friday
     }
 
 #"Hello, World!" in Python
-
+![PYTHON-Bild](python.png "PYTHON-Bild")
 - PYTHON-Code-Example
 
     print('Hello, world!')
