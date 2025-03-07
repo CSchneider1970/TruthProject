@@ -5,7 +5,6 @@ MD-Exercise on Friday
 
 #"Hello, World!" in JAVA
 
-![JAVA-Bild](https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg) "JAVA-Bild")
 ![JAVA-Bild](java.jpeg) "JAVA-Bild")
 
 - JAVA-Code-Example
