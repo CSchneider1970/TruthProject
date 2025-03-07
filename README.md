@@ -5,7 +5,7 @@ MD-Exercise on Friday
 
 #"Hello, World!" in JAVA
 
- ![JAVA-Bild](./JAVA.jpeg "JAVA-Bild") 
+ ![JAVA-Bild](file:./JAVA.jpeg "JAVA-Bild") 
 
 - JAVA-Code-Example
 
