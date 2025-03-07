@@ -37,16 +37,15 @@ public class FileReader {
 
 ### 1.2.1 a Comparison explained with 2 Pictures
 
-## Picture 01
-![Image 1](https://ibb.co/xKyp1L1)
+## Image 1
+![Image 1](https://i.ibb.co/xKyp1L1D/image1.jpg)
 
 While Java developers are still setting up their project structure, Python devs have already finished their app and gone for coffee.
 
-## Picture 02
-![Image 2](https://ibb.co/B2sFtgKR)
+## Image 2
+![Image 2](https://i.ibb.co/B2sFtgKR/image2.jpg)
 
 ### 2. Flexibility: One Snake, Many Tricks 🎭
-
 - **Dynamic typing**: Python doesn't judge your variables. They can be whatever they want to be!
 - **Duck typing**: If it walks like a duck and quacks like a duck, it's probably a... Python object!
 - **Multiple paradigms**: OOP, functional, procedural - Python does it all without breaking a sweat.
