@@ -12,13 +12,14 @@ Python's clean and readable syntax makes Java look like a punctuation party gone
 
 ##Python
 
-with open('file.txt') as f:
+*with open('file.txt') as f:
     for line in f:
         print(line.strip())
+*
 
 ##Java
 
-import java.io.BufferedReader;
+*import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -33,7 +34,7 @@ public class FileReader {
             e.printStackTrace();
         }
     }
-}
+}*
 
 ### 1.2.1 a Comparison explained with 2 Pictures
 
